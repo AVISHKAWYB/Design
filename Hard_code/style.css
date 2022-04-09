@@ -1,0 +1,75 @@
+body
+{
+margin: 0px;
+padding: 0px;
+position: relative;
+}
+.head
+{
+    height: 60px;
+    width: 100%;
+    background-color: rgba(31, 28, 26, 0.687);
+    border: none;
+    padding: none;
+    position: fixed;
+}
+a
+{
+    text-decoration: none;
+    color: goldenrod;
+}
+ul
+{
+margin: 0px;
+padding-top: 20px;
+border: none;
+float: right;
+margin-right: 20px;
+text-transform: uppercase;
+
+
+}
+.logo
+{
+    margin: 0px;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-left: 30px;
+    color: goldenrod;
+}
+.list_item_style
+{
+   list-style: none;
+   display: inline;
+   padding-right: 20px;
+   margin-right: 20px;
+}
+.list_item_style:hover
+{
+    background-color: rgba(17, 16, 13, 0.649);
+    padding: 18px 20px;
+    border-radius: 10px;
+}
+.hero1
+{
+    padding-left: 14%;
+    width: 900px;
+    height: 600px;
+}
+#header_1
+{
+padding-left: 100px;
+ text-align: center;
+ text-transform: capitalize;
+ font-family: Arial, Helvetica, sans-serif;
+ color: rgba(255, 214, 6, 0.952);
+}
+.hero
+{
+    width: 100%;
+    height: 650px;
+}
+.careers
+{
+    background-image: url();
+}
